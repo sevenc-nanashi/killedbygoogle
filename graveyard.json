@@ -1,5 +1,13 @@
 [
   {
+    "dateClose": "2025-08-25",
+    "dateOpen": "2019-03-30",
+    "description": "Google URL Shortener, also known as goo.gl, was a URL shortening service. Its links still redirects after the registration was closed, but its link will stop redirecting.",
+    "link": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
+    "name": "Google URL Shortener: Redirects",
+    "type": "service"
+  },
+  {
     "name": "VPN by Google One",
     "dateClose": "2024-06-20",
     "dateOpen": "2020-10-29",
@@ -804,7 +812,7 @@
     "dateOpen": "2009-12-01",
     "description": "Google URL Shortener, also known as goo.gl, was a URL shortening service.",
     "link": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
-    "name": "Google URL Shortener",
+    "name": "Google URL Shortener: Generating URL",
     "type": "service"
   },
   {
